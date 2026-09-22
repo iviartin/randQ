@@ -1,4 +1,6 @@
-# Cold-call selector
+# Random Questions & Name Selector
+
+Making changes to the read me to test git
 
 Randomly draws a name and a question, so the chosen person answers
 it in class.
